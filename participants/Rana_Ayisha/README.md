@@ -27,7 +27,7 @@
 3. Plan and outline my first web development project
 
 💬 **Fun Fact About Me**  
-- I love reading!
+- I love reading and exploring tech!
 
 📫 **GitHub Profile link**
 - https://github.com/ranaashihab
