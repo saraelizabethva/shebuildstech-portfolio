@@ -19,12 +19,11 @@ This mini-assignment checks your GitHub basics – so make sure you get it right
 1. **Fork** this repository 🍴  
 2. **Create a folder** inside `/participants/` with your full name:  
    Example: `participants/Aisha_K_P/`
-3. Inside your folder, add:  
-   - `README.md` –   
-   - # Your Name -
-- ## College Name
-- ## Branch
-- ## Year of college
+3. Inside your folder, add:  `README.md` and place the following content   
+- Your Name 
+- College Name
+- Branch
+- Year of college
 - 🌱 What you’re currently learning
 - 🎯 Goals for this year
 - 👯 How you want to collaborate
