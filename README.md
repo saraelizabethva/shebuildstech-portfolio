@@ -20,8 +20,18 @@ This mini-assignment checks your GitHub basics – so make sure you get it right
 2. **Create a folder** inside `/participants/` with your full name:  
    Example: `participants/Aisha_K_P/`
 3. Inside your folder, add:  
-   - `README.md` – A short intro about you, your skills, goals, and anything cool!  
-   - Optional: Any project files, resumes, or links (GitHub repos, portfolios, etc.)
+   - `README.md` –   
+   - # Your Name -
+- ## College Name
+- ## Branch
+- ## Year of college
+- 🌱 What you’re currently learning
+- 🎯 Goals for this year
+- 👯 How you want to collaborate
+- 3 wishes to accommplish this month
+- 💬 A fun fact about yourself
+- 📫 GitHub Profile link
+
 4. **Commit** your changes with a meaningful message  
 5. **Open a Pull Request (PR)** to merge your folder into the main repo
 
